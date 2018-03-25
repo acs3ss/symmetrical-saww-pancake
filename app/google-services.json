@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560049639465",
+    "firebase_url": "https://symmetrical-saww-pancake.firebaseio.com",
+    "project_id": "symmetrical-saww-pancake",
+    "storage_bucket": "symmetrical-saww-pancake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560049639465:android:1d39136c3621c609",
+        "android_client_info": {
+          "package_name": "banskota.sandesh.menpick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560049639465-o0070oj31degephf72909sa9u2pl6g89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "banskota.sandesh.menpick",
+            "certificate_hash": "0693e489f21224722aba9382f5ced2e6d983a964"
+          }
+        },
+        {
+          "client_id": "560049639465-apm28f754hh387iiujc7qon6qakk3fmb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFVEscawgtVVDc_b_mUU5hVJiY79csFr0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560049639465-apm28f754hh387iiujc7qon6qakk3fmb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
