@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# import pprint
 from googleapiclient.discovery import build
 
 dev_key = "AIzaSyAygzEMLRKF3dj98Yh5Rb1el2Vs0KcJ2Q0"
@@ -18,6 +17,7 @@ def main():
       safe="high",
       searchType="image"
     ).execute()
+
     link1 = res['items'][0]['link']
     link2 = res['items'][1]['link']
     link3 = res['items'][2]['link']
@@ -25,11 +25,3 @@ def main():
 
 if __name__ == '__main__':
   main()
-
-
-# from google.appengine.api import search
-# index = search.Index(name='productsearch1')
-# geopoint = search.GeoPoint(latitude, longitude)
-# fields = [search.TextField(name=docs.Store.STORE_NAME, value=storename),
-#              search.TextField(name=docs.Store.STORE_ADDRESS, value=store_address),
-#              search.GeoField(name=docs.Store.STORE_LOCATION, value=geopoint)

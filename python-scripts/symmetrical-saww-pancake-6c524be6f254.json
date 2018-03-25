@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "symmetrical-saww-pancake",
+  "private_key_id": "6c524be6f254cfd4365067767df1244b34726637",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDIFrqLnP0wYzq6\nB5phnlRvpXOXn6b+ny08AZ1xT62ZDZWSvzPLGs65EhuJI5kGccdy5IEIDemzBHj/\nkthgPejYA8ZDUY3moDOqNAr7KNbmMGMKf0x8VjNe4NyeOKG4aKkZ+criyI8jbhjX\nNn4HZoRJwkoQ16iFOtTdjvrbrEO2psY775RqkyIeIxBsJVaN4wG/svWYtCEUOsb1\nQzMccCdAXknhyDxTX6VEUSR00mQqvzC1C+Smz+A84mS2fN/WQ9qZyX/+HSzipaB0\n64aACegwUML3d73z0xdxBy1SiSA7pWviQ/Fj/ocSuTKhL/O3IesE4RPRSB4TaQyb\nXB9nQrsjAgMBAAECggEAS92aU69trLgjH0AcwCC5YS+5mWb2eZq/Gv59xOXyK5Mk\nAGUw7TS35yI/gIsXzYK8ngqYBgbIcpEik70I/8zZiXY86W91v1lE3acn9r0wZk04\ncFV+GbLRfYsC+5b7cqF0ZJ362Gw1IbjwAEHwHTw4soLRdHtgsUtyRKOe6EXz0r/T\ngfq89AzJFxW7SM9p31ZJQHZGQ5oiKhkT4nYZTs9CuSk0f/vpdHYh5xa61HCyaQmL\nyMM1XDq9J1ZrXRI4yWHmtDVIYQFnPsm2iV8+ridTQbJpGpf513cE/w/NNOMNo4sV\nWfjqL0yahIgKTUm7is8hF0R7nSv/FXt4Jlogu25WEQKBgQDwIhzn3ylisr2cRdIN\nnTDtmAvoYLlzbJ480hpFfwtxJMRqS7LtfEKKA0GIWvWLeQSptXdFhltoa09h4RDq\nBsRQX3JknRRInLeJgS/zrjjozumgracYXSoA+CLoJGIAWfrYJMzZX7AN76JesY13\n2e+mWXKFoT11SPA6vJRUB9nUaQKBgQDVT0IP9pb+YLRVg/8MAU+86G7DWl0rhmJi\nOzSXueItOmUpD04msEyV7katDoZZu3w7S1/FGKUUjlDAD1W1d4fc/q4iVH/Jfuba\nqZ7phN53+mTzsPsOfdVklTbuuiruUlg44lrQBc1zM5uyiGqV8ZZ9RBg5V5NGRq4g\nl2S6NBPxqwKBgQCOGrHeacq09K+Ojib7FX3B7MuHLc4xRyLxPSh83ezofOibOsbd\nET7TK5AZYDKU4f3nbFLz2sm3JmHou2bmBzEfmww4DFjXi551ifTVkNFuvBu3kWwj\n1+YmgrEtjXJNYPI3/LcZIC4wYRJGVW4xcdAHMkG6YKvc/1fienyQqcC3mQKBgQCS\nmkB7HC02c1w9kdSOebBF0zGdDdQO//NKNAq3ZMfv8bxo9d3udSiNuw/UDLGFpneB\ngRI3MfLzJ8ST23Y6nAZCer9PVOfmolMjYYSYVftYVj1fxvklQpKQ6ISymjy7Qtjj\nb56ebf5/+K4/i8ZFe57ERTKo5mmP2S//sk1GNFiotQKBgBF2BOgHKL9xiSMDhu3P\ntDEyFW5S69JNxMMFjEpnbaRes3HcNOnQsNEcoNgdheWd5n+DHcA/nQ7xIGId8EJm\nu8NH7GJWAAwApLbEZpkxaS6l4MLvg7oQ0t+Iy0Cc3olBkbVwc2mP9+tXPRUFXwyK\nOW/zpg97cn8C4IRMd/R01Fl5\n-----END PRIVATE KEY-----\n",
+  "client_email": "symmetrical-saww-pancake@appspot.gserviceaccount.com",
+  "client_id": "108822874040709133625",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/symmetrical-saww-pancake%40appspot.gserviceaccount.com"
+}
