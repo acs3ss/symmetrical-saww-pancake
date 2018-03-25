@@ -13,6 +13,8 @@ def detect_document_uri(uri):
     image = types.Image()
     image.source.image_uri = uri
 
+    print("===========================\n", client)
+
     response = client.document_text_detection(image=image)
     # test = response['full_text_annotation']
     return parse_json(response)
