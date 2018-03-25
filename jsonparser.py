@@ -66,7 +66,7 @@ for block_dict in block_list:
         if end != -1:
             continue
 
-        match = re.search(r'\$?\s?\d\s?\.\s?\d\d', strr)
+        match = re.search(r'\$?\s*\d+\s*\.\s*\d\d', strr)
         if match != None:
             strr = strr[:match.start()]
 
